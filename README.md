@@ -3,7 +3,7 @@
 
 ## Description
 ```
-This Project was designed for the sole purpose of re-creating Flappy Bird from iOS & Android for our Final Project for ICS4U in Turing. We recieved a perfect mark for this Project (thank you Mr.Vandenburg).
+This Project was designed for the sole purpose of re-creating the beloved game Flappy Bird from iOS & Android App Store / Play Store for our Final Project for ICS4U in Turing. We recieved a perfect mark for this Project (thank you Mr.Vandenberg).
 ```
 ### How to Run
 
@@ -20,8 +20,8 @@ Enjoy! :)
 
 
 ### Authors
-> Adam Rodrigues @arodrigues97
-> Jona Sahota @LifeOfJona
+Adam Rodrigues https://github.com/arodrigues97
+Jona Sahota https://github.com/LifeOfJona
 
 [logo]: https://i.gyazo.com/9a0650e3ad6474efb8c467f2b5a58c95.gif "Flappy Bird"
 

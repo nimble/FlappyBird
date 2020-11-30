@@ -5,7 +5,7 @@
 ```
 This Project was designed for the sole purpose of re-creating the beloved game Flappy Bird from iOS & Android App Store / Play Store for our Final Project for ICS4U in Turing. We recieved a perfect mark for this Project (thank you Mr.Vandenberg).
 ```
-### How to Run
+# How to Run
 
 1) Install Turing from: http://compsci.ca/blog/download-turing-411/
 
@@ -19,9 +19,9 @@ Enjoy! :)
 
 
 
-### Authors
-Adam Rodrigues https://github.com/arodrigues97
-Jona Sahota https://github.com/LifeOfJona
+# Authors
+Adam Rodrigues @arodrigues97
+Jona Sahota @LifeOfJona
 
 [logo]: https://i.gyazo.com/9a0650e3ad6474efb8c467f2b5a58c95.gif "Flappy Bird"
 

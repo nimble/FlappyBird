@@ -31,7 +31,7 @@ and voila, just click on the ```Run``` button on top to get started.
 
 
 # Authors
-> Adam Rodrigues: [arodrigues97](https://github.com/arodrigues97) | Jona Sahota: [nimble](https://github.com/nimble)
+> Adam: [arodrigues97](https://github.com/arodrigues97) | Jona: [nimble](https://github.com/nimble)
 
 [logo]: https://i.imgur.com/Tpspx90.png "Interface"
 [logo2]: https://i.gyazo.com/9a0650e3ad6474efb8c467f2b5a58c95.gif "Flappy Bird"
